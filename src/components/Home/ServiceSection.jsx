@@ -140,7 +140,7 @@ const ServiceSection = () => {
                 key={index}
                 className="relative min-w-[300px] md:min-w-[400px] h-[520px] rounded-lg shadow-lg border-primary border
               overflow-hidden group
-             hover:scale-105 active:scale-105 bg-black/50 hover:shadow-primary hover:border-primary/80 dark:bg-black/90 transition-all duration-300"
+             hover:scale-105 active:scale-105 bg-black/90 hover:shadow-primary hover:border-primary/80 dark:bg-black/90 transition-all duration-300"
                 data-aos="fade-up"
                 data-aos-delay={index * 150} // staggered animation for each card
               >
